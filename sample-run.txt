@@ -1,0 +1,65 @@
+['BROOKLYN'], 29.44 % 
+['EVENING'], 27.72 % 
+['AFTERNOON'], 27.35 % 
+['NIGHT'], 26.23 % 
+['MANHATTAN'], 24.25 % 
+['BRONX'], 22.1 % 
+['QUEENS'], 19.64 % 
+['MORNING'], 18.7 % 
+['PETIT LARCENY'], 17.7 % 
+['FRIDAY'], 15.02 % 
+['WEDNESDAY'], 14.88 % 
+['THURSDAY'], 14.54 % 
+['SATURDAY'], 14.39 % 
+['TUESDAY'], 14.1 % 
+['HARRASSMENT 2'], 14.07 % 
+['MONDAY'], 13.67 % 
+['SUNDAY'], 13.41 % 
+['ASSAULT 3 & RELATED OFFENSES'], 11.06 % 
+['CRIMINAL MISCHIEF & RELATED OF'], 10.78 % 
+['GRAND LARCENY'], 9.04 % 
+['BROOKLYN', 'EVENING'], 8.2 % 
+['BROOKLYN', 'NIGHT'], 7.87 % 
+['BROOKLYN', 'AFTERNOON'], 7.8 % 
+['MANHATTAN', 'AFTERNOON'], 7.21 % 
+['EVENING', 'MANHATTAN'], 6.69 % 
+['BRONX', 'EVENING'], 6.37 % 
+['AFTERNOON', 'PETIT LARCENY'], 6.02 % 
+['MANHATTAN', 'NIGHT'], 5.87 % 
+['BRONX', 'AFTERNOON'], 5.85 % 
+['BRONX', 'NIGHT'], 5.75 % 
+['QUEENS', 'NIGHT'], 5.59 % 
+['BROOKLYN', 'MORNING'], 5.58 % 
+['MANHATTAN', 'PETIT LARCENY'], 5.43 % 
+['QUEENS', 'EVENING'], 5.23 % 
+['EVENING', 'PETIT LARCENY'], 5.22 % 
+['QUEENS', 'AFTERNOON'], 5.17 % 
+
+['PETIT LARCENY'] => ['AFTERNOON'](Conf: 34.02 %, Supp: 6.02 %)
+['PETIT LARCENY'] => ['MANHATTAN'](Conf: 30.7 %, Supp: 5.43 %)
+['NIGHT'] => ['BROOKLYN'](Conf: 30.0 %, Supp: 7.87 %)
+['MORNING'] => ['BROOKLYN'](Conf: 29.84 %, Supp: 5.58 %)
+['MANHATTAN'] => ['AFTERNOON'](Conf: 29.74 %, Supp: 7.21 %)
+['EVENING'] => ['BROOKLYN'](Conf: 29.57 %, Supp: 8.2 %)
+['PETIT LARCENY'] => ['EVENING'](Conf: 29.51 %, Supp: 5.22 %)
+['BRONX'] => ['EVENING'](Conf: 28.81 %, Supp: 6.37 %)
+['AFTERNOON'] => ['BROOKLYN'](Conf: 28.51 %, Supp: 7.8 %)
+['QUEENS'] => ['NIGHT'](Conf: 28.46 %, Supp: 5.59 %)
+['BROOKLYN'] => ['EVENING'](Conf: 27.84 %, Supp: 8.2 %)
+['MANHATTAN'] => ['EVENING'](Conf: 27.61 %, Supp: 6.69 %)
+['BROOKLYN'] => ['NIGHT'](Conf: 26.72 %, Supp: 7.87 %)
+['QUEENS'] => ['EVENING'](Conf: 26.65 %, Supp: 5.23 %)
+['BROOKLYN'] => ['AFTERNOON'](Conf: 26.48 %, Supp: 7.8 %)
+['BRONX'] => ['AFTERNOON'](Conf: 26.48 %, Supp: 5.85 %)
+['AFTERNOON'] => ['MANHATTAN'](Conf: 26.37 %, Supp: 7.21 %)
+['QUEENS'] => ['AFTERNOON'](Conf: 26.32 %, Supp: 5.17 %)
+['BRONX'] => ['NIGHT'](Conf: 26.03 %, Supp: 5.75 %)
+['MANHATTAN'] => ['NIGHT'](Conf: 24.2 %, Supp: 5.87 %)
+['EVENING'] => ['MANHATTAN'](Conf: 24.15 %, Supp: 6.69 %)
+['EVENING'] => ['BRONX'](Conf: 22.97 %, Supp: 6.37 %)
+['MANHATTAN'] => ['PETIT LARCENY'](Conf: 22.41 %, Supp: 5.43 %)
+['NIGHT'] => ['MANHATTAN'](Conf: 22.37 %, Supp: 5.87 %)
+['AFTERNOON'] => ['PETIT LARCENY'](Conf: 22.01 %, Supp: 6.02 %)
+['NIGHT'] => ['BRONX'](Conf: 21.93 %, Supp: 5.75 %)
+['AFTERNOON'] => ['BRONX'](Conf: 21.4 %, Supp: 5.85 %)
+['NIGHT'] => ['QUEENS'](Conf: 21.3 %, Supp: 5.59 %)
